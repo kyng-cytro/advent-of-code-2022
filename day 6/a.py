@@ -5,7 +5,7 @@ with open('./input.txt', 'r') as input:
     # grab line from input file
     data_stream = input.read()
 
-    # using enumerate cause i want the index
+    # using enumerate cause i want both the index and the data
     for index, data in enumerate(data_stream):
         try:
             # collect 14 chars from current index into a chunk
