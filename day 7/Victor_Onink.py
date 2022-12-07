@@ -1,7 +1,7 @@
 """
     TODO: study his code to figure out he got by the name stuff
     
-    if you are seeing this please check out the https://github.com/VictorOnink
+    if you are seeing this please check out the https://github.com/VictorOnink 
 """
 
 from pathlib import Path
